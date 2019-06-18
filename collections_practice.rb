@@ -39,6 +39,8 @@ def sum_array(sum)
 end
 
 def add_s(plural)
+  plural_array = []
+  plural.each_with_index.collect { |element, index| }
 
 end
 
