@@ -47,7 +47,6 @@ def add_s(plural)
     plural_array << word
   end
 
-end
 
 
 
