@@ -31,6 +31,7 @@ end
 def find_a(word)
   word.select do |letter| 
     letter.start_with?("a")
+  end
 end
 
 
