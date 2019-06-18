@@ -40,7 +40,7 @@ end
 
 def add_s(array)
   new_array = []
-  array.each_with.index { |element, index| }
+  array.each_with_index do { |element, index| }
     if index != 1 
       element = element + "s"
     end
