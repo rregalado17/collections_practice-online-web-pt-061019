@@ -41,6 +41,11 @@ end
 def add_s(plural)
   plural_array = []
   plural.each_with_index.collect { |element, index| }
+    if index != 1 
+      element = element + "s"
+    end
+    plural_array << word
+  end
 
 end
 
