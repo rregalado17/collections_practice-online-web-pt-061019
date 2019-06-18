@@ -40,7 +40,7 @@ end
 
 def add_s(array)
   new_array = []
-  
+  array.each.with_
 end
 
 
