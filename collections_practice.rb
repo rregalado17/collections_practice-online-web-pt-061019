@@ -35,7 +35,7 @@ def find_a(word)
 end
 
 def sum_array(sum)
-  sum
+  sum.inject(+)
 end
 
 
