@@ -34,7 +34,9 @@ def find_a(word)
   end
 end
 
-
+def sum_array(sum)
+  sum
+end
 
 
 
